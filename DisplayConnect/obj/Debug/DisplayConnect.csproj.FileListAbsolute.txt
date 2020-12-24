@@ -1,0 +1,10 @@
+C:\Users\connor\source\repos\DisplayConnect\DisplayConnect\bin\Debug\DisplayConnect.exe.config
+C:\Users\connor\source\repos\DisplayConnect\DisplayConnect\bin\Debug\DisplayConnect.exe
+C:\Users\connor\source\repos\DisplayConnect\DisplayConnect\bin\Debug\DisplayConnect.pdb
+C:\Users\connor\source\repos\DisplayConnect\DisplayConnect\obj\Debug\DisplayConnect.csprojAssemblyReference.cache
+C:\Users\connor\source\repos\DisplayConnect\DisplayConnect\obj\Debug\DisplayConnect.Properties.Resources.resources
+C:\Users\connor\source\repos\DisplayConnect\DisplayConnect\obj\Debug\DisplayConnect.csproj.GenerateResource.cache
+C:\Users\connor\source\repos\DisplayConnect\DisplayConnect\obj\Debug\DisplayConnect.csproj.CoreCompileInputs.cache
+C:\Users\connor\source\repos\DisplayConnect\DisplayConnect\obj\Debug\DisplayConnect.exe
+C:\Users\connor\source\repos\DisplayConnect\DisplayConnect\obj\Debug\DisplayConnect.pdb
+C:\Users\connor\source\repos\DisplayConnect\DisplayConnect\obj\Debug\DisplayControler.Form1.resources
