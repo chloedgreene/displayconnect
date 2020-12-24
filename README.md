@@ -24,3 +24,6 @@ The Output should be like:
 
 Then is the DisplayConnect Software put the IP(Ex, 192.168.0.11) in to the IP address Field
 And is everything went right, It should work
+
+## Build:
+Install VisualStudio or Monodevelop and open the project on the main branch and click "ReBuild"
